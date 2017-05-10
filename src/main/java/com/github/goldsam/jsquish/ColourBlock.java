@@ -24,12 +24,12 @@
 
    -------------------------------------------------------------------------- */
 
-package com.github.memo33.jsquish;
+package com.github.goldsam.jsquish;
 
 import static java.lang.Math.*;
 import java.util.Arrays;
 
-import static com.github.memo33.jsquish.CompressorColourFit.*;
+import static com.github.goldsam.jsquish.CompressorColourFit.*;
 
 final class ColourBlock {
 

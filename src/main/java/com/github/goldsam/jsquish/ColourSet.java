@@ -24,9 +24,9 @@
 
    -------------------------------------------------------------------------- */
 
-package com.github.memo33.jsquish;
+package com.github.goldsam.jsquish;
 
-import com.github.memo33.jsquish.Squish.CompressionType;
+import com.github.goldsam.jsquish.Squish.CompressionType;
 
 final class ColourSet {
 

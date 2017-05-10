@@ -24,7 +24,7 @@
 
    -------------------------------------------------------------------------- */
 
-package com.github.memo33.jsquish;
+package com.github.goldsam.jsquish;
 
 final class Vec {
 

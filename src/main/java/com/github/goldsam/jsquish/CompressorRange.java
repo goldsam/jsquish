@@ -24,10 +24,10 @@
 
    -------------------------------------------------------------------------- */
 
-package com.github.memo33.jsquish;
+package com.github.goldsam.jsquish;
 
-import com.github.memo33.jsquish.Squish.CompressionMetric;
-import com.github.memo33.jsquish.Squish.CompressionType;
+import com.github.goldsam.jsquish.Squish.CompressionMetric;
+import com.github.goldsam.jsquish.Squish.CompressionType;
 
 final class CompressorRange extends CompressorColourFit {
 

@@ -24,14 +24,14 @@
 
    -------------------------------------------------------------------------- */
 
-package com.github.memo33.jsquish;
+package com.github.goldsam.jsquish;
 
 import static java.lang.Math.round;
 
-import static com.github.memo33.jsquish.ColourBlock.*;
-import static com.github.memo33.jsquish.SingleColourLookup3.*;
-import static com.github.memo33.jsquish.SingleColourLookup4.*;
-import com.github.memo33.jsquish.Squish.CompressionType;
+import static com.github.goldsam.jsquish.ColourBlock.*;
+import static com.github.goldsam.jsquish.SingleColourLookup3.*;
+import static com.github.goldsam.jsquish.SingleColourLookup4.*;
+import com.github.goldsam.jsquish.Squish.CompressionType;
 
 final class CompressorSingleColour extends CompressorColourFit {
 
